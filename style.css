@@ -55,6 +55,7 @@ span {
 	height: 50px;
 	border: 0px hidden gray;
 	padding: 10px;
+	border-radius: 15px;
 }
 body {
 	min-height: 100vh;
