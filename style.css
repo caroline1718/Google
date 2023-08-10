@@ -1,0 +1,106 @@
+* {
+	font-family: 'DM Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
+}
+form {
+	position: absolute;
+	left: 400px;
+	top: 100px;
+}
+
+.span1 {
+	margin-left: 110px;
+	color: blue;
+}
+
+input {
+	margin-top: 10px;
+	border-radius: 25px;
+	border: 1px solid lightgray;
+	height:40px;
+	width: 500px;
+}
+
+span {
+	font-size: 80px;
+}
+
+.span2, .span6 {
+	color: red;
+}
+
+.span3 {
+	color: #E2F516;
+}
+
+.span4 {
+	color: blue;
+}
+
+.span5 {
+	color: green;
+}
+
+
+
+.btn {
+	margin-left: 150px;
+	margin-top: 20px;
+}
+ .btn1 {
+	margin-left: 10px;
+}
+
+.btn, .btn1 {
+	height: 50px;
+	border: 0px hidden gray;
+	padding: 10px;
+}
+body {
+	min-height: 100vh;
+	display: flex;
+    	flex-direction: column;
+}
+
+footer {
+	margin-top: auto;
+	background-color: rgba(128,128,128, 0.2);
+	color: gray;
+}
+
+.footer1 {
+	margin-top: 0;
+}
+
+li {
+	display: inline;
+	list-style-type: none;
+
+}
+
+ul li {
+	margin-right: 30px;
+}
+
+.namibia {
+	margin-left: 30px;
+	font-size: 17px;
+}
+
+p {
+	margin-left: 120px;
+	color: black;
+}
+
+.list-item {
+	margin-left: 500px;
+}
+
+a {
+	text-decoration: none;
+	color: gray;
+}
+
+a:hover {
+	text-decoration: underline;
+}
